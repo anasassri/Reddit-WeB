@@ -1,0 +1,248 @@
+*{ margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+body {
+    line-height: 1;
+    font-family: BentonSans, sans-serif;
+    background-color: #d5d5dbd4;
+  }
+  ol, ul {
+    list-style: none;
+  }
+ 
+ a {
+    color: inherit;
+    text-decoration: inherit;
+  }
+
+  
+
+button {
+    background: transparent;
+    border: none;
+    color: inherit;
+    cursor: pointer;
+    padding: initial;
+  }
+
+.header1 {
+    background-color: white ;
+    display: flex;
+    height: 39px
+    
+  
+
+}
+.hope{
+    display: flex;
+    align-items: center;
+
+    
+}
+.header2 ul{
+    background-color: white;
+    color: black;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;    
+}
+
+
+.header1 .hope li {
+    padding: 20px;
+    display:flexbox ;
+    height: 70px;
+    
+}
+
+.header2 li {
+    padding: 12px;
+    
+}
+.header1 img {
+    height: 28px;
+    padding-left: 5px;
+    padding-top: 10px;
+}
+.header1 select {
+    padding-right: 23px;
+    padding: 14px;
+    margin-bottom: inherit;
+}
+.header1 input {
+    background-color: beige;
+    height: 25px;
+    width: 525px;
+    
+}
+
+.icon2 {
+    background-color: white;
+    height: 40px;
+    width: 935px;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    
+}
+.icon2 li {
+    padding-left: 80px;
+    color: gray;
+    
+   
+    
+}
+.fa-sun-o {
+    color: rgb(28, 103, 209);
+}
+.icon2 button {
+    text-transform: uppercase;
+   
+}
+
+.post1 {
+    background-color: white;
+    height: 115px;
+    width: 925px;
+    margin: 15px;
+    padding: 5px;
+    display: flex;
+    margin-left: 15px;
+    flex-direction: ;
+}
+.post1 p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.post1 ul {
+    display: flex;
+    margin: 5%;
+    color: gray;
+}
+.post1 li 
+{
+    padding-right: 30px;
+    margin-top: 15px;
+    
+}
+.post1 img {
+    margin: 6px;
+}
+.up P{
+    margin-left: 2PX;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.up {
+    margin: 10px;
+}
+.box p{
+    padding: 3px;
+   
+}
+.small {
+    font-size: x-small;
+    color: gray;
+    margin-left: 120px;
+    
+}
+.tt {
+    font-weight: bold;
+    font-size: smaller;
+    
+}
+main {
+    display: flex;
+    
+}
+.log{
+    background-color: white;
+    width: 300px;
+    margin-top: 15px;
+    text-align: center;
+    
+    
+    
+}
+.log > img {
+    width: 100px;
+    margin-top: 25px;
+    
+    
+   
+
+}
+
+.tp {
+    display: flex;
+    font-size: small;
+    justify-content: space-around;
+    font-family: Noto Sans,Arial,sans-serif;
+    line-height: 16px;
+}
+.td p{
+   padding-top: 9px;
+   
+   
+}
+.td1 p{
+    padding-top: 9px;
+ }
+
+#r{
+    font-size: smaller;
+    text-align: start;
+    padding-left: 10px;
+    padding-top: 3px;
+}
+.er {
+    background-color: coral;
+    color: white;
+    width: 170PX;
+    height: 25px;
+    padding-left:1px ;
+    border-radius: 8px;
+}
+#more {
+    margin-left: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: medium;
+    font-family: monospace;
+    color: dodgerblue;  
+}
+#btn {
+    background-color: dodgerblue;
+    color :white;
+    border-radius: 8px;
+    width: 170PX;
+    height: 25px;
+    padding-left:1px ;
+    margin-top: 13px;
+}
+#to {
+   
+    justify-content: space-around;
+    padding-left: 23px;
+    font-size: small;
+    
+}
+#tto {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+.fa-birthday-cake{
+    padding-left: 60px;
+}
+button:hover {
+    color: red;
+}
+.btn{
+    transition-duration: 1s;
+}
